@@ -1,17 +1,5 @@
 [
   {
-    "id": "1",
-    "applicant": { "id": "101", "name": "Jason Traña" },
-    "librarian": { "id": "201", "name": "Ana López" },
-    "loanDate": "2024-12-20",
-    "returnLoanDate": "2024-12-27",
-    "expectReturnLoanDate": "2024-12-25",
-    "resources": [
-      { "id": "301", "resource": "Laptop", "amount": 2 },
-      { "id": "302", "resource": "Book - 'Clean Code'", "amount": 1 }
-    ]
-  },
-  {
     "id": "2",
     "applicant": { "id": "102", "name": "Yessenia Villagra" },
     "librarian": { "id": "202", "name": "Luis Martínez" },
