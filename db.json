@@ -22,53 +22,5 @@
       { "id": "303", "resource": "Microphone", "amount": 3 },
       { "id": "304", "resource": "Speaker", "amount": 1 }
     ]
-  },
-  {
-    "id": "3",
-    "applicant": { "id": "103", "name": "Carlos Hernández" },
-    "librarian": { "id": "203", "name": "Carmen Díaz" },
-    "loanDate": "2024-12-18",
-    "returnLoanDate": "2024-12-23",
-    "expectReturnLoanDate": "2024-12-21",
-    "resources": [
-      { "id": "305", "resource": "Datashow", "amount": 1 },
-      { "id": "306", "resource": "Book - 'Design Patterns'", "amount": 2 }
-    ]
-  },
-  {
-    "id": "4",
-    "applicant": { "id": "104", "name": "Laura Méndez" },
-    "librarian": { "id": "204", "name": "Juan Pérez" },
-    "loanDate": "2024-12-17",
-    "returnLoanDate": "2024-12-22",
-    "expectReturnLoanDate": "2024-12-20",
-    "resources": [
-      { "id": "307", "resource": "Laptop", "amount": 1 },
-      { "id": "308", "resource": "Book - 'Refactoring'", "amount": 1 }
-    ]
-  },
-  {
-    "id": "5",
-    "applicant": { "id": "105", "name": "José Ramírez" },
-    "librarian": { "id": "205", "name": "Sofía Ruiz" },
-    "loanDate": "2024-12-16",
-    "returnLoanDate": "2024-12-21",
-    "expectReturnLoanDate": "2024-12-19",
-    "resources": [
-      { "id": "309", "resource": "Microphone", "amount": 1 },
-      { "id": "310", "resource": "Speaker", "amount": 2 }
-    ]
-  },
-  {
-    "id": "6",
-    "applicant": { "id": "106", "name": "Lucía Fernández" },
-    "librarian": { "id": "206", "name": "Roberto Castillo" },
-    "loanDate": "2024-12-15",
-    "returnLoanDate": "2024-12-20",
-    "expectReturnLoanDate": "2024-12-18",
-    "resources": [
-      { "id": "311", "resource": "Book - 'The Pragmatic Programmer'", "amount": 1 },
-      { "id": "312", "resource": "Datashow", "amount": 1 }
-    ]
   }
 ]
